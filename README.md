@@ -2,7 +2,7 @@
 
 
 
-##Overview
+## Overview
 
 
 
@@ -26,13 +26,13 @@ This MATLAB project analyzes binary-weighted resistor slices to determine the op
 
 - Generate plots for:
 
-&nbsp; - Worst-case error vs. number of slices
+  &nbsp; - Worst-case error vs. number of slices
 
-&nbsp; - Error profile vs. Rslice
+  &nbsp; - Error profile vs. Rslice
 
-&nbsp; - Total resistance vs. PVT variation
+  &nbsp; - Total resistance vs. PVT variation
 
-&nbsp; - Error vs. PVT variation
+  &nbsp; - Error vs. PVT variation
 
 
 
@@ -42,13 +42,13 @@ This MATLAB project analyzes binary-weighted resistor slices to determine the op
 
 1. Update project parameters in the MATLAB script:
 
-&nbsp;  - Target resistance (`Rtarget`)
+    &nbsp;  - Target resistance (`Rtarget`)
 
-&nbsp;  - Number of slices (`N`)
+    &nbsp;  - Number of slices (`N`)
 
-&nbsp;  - Target error (`Target_Error`)
+    &nbsp;  - Target error (`Target_Error`)
 
-&nbsp;  - PVT variation range (`PVT_Range`)
+    &nbsp;  - PVT variation range (`PVT_Range`)
 
 
 
