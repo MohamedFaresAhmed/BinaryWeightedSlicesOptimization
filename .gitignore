@@ -1,0 +1,9 @@
+# MATLAB temporary and backup files
+*.asv
+*.mex*
+*.autosave
+*.slxc
+*.slxc.*
+
+# Code Test files
+*Test.m
